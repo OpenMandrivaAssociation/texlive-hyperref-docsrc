@@ -5,8 +5,8 @@
 # catalog-license undef
 # catalog-version undef
 Name:		texlive-hyperref-docsrc
-Version:	20111103
-Release:	10
+Version:	20170414
+Release:	1
 Summary:	TeXLive hyperref-docsrc package
 Group:		Publishing
 URL:		http://tug.org/texlive
