@@ -9,7 +9,7 @@ Version:	20170414
 Release:	3
 Summary:	TeXLive hyperref-docsrc package
 Group:		Publishing
-URL:		http://tug.org/texlive
+URL:		https://tug.org/texlive
 License:	http://www.tug.org/texlive/LICENSE.TL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/hyperref-docsrc.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/hyperref-docsrc.doc.tar.xz
